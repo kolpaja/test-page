@@ -1,0 +1,25 @@
+.container {
+  width: 80vw;
+  margin: 40px auto;
+  position: relative;
+  border: 1px solid black;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(181, 221, 37);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.square-3 {
+  margin: 20px 10px;
+  padding: 20px 10px;
+}
